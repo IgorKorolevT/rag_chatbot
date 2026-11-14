@@ -341,3 +341,6 @@ temp/
 # Archives
 *.zip
 *.tar.gz
+
+
+*.db
