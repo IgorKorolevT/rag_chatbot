@@ -20,5 +20,3 @@ source .venv/bin/activate
 pip install -r requirements.txt
 jupyter notebook RAG_Chatbot.ipynb
 ```
-
-Виконати комірки зверху вниз → завантажити файли → питати.
